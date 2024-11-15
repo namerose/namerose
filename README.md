@@ -23,8 +23,6 @@
  <a href="https://instagram.com/imamsec.link" target="_blank"><img height="25" src="https://user-images.githubusercontent.com/93989786/166101861-6e194f77-a150-461d-9e32-82e76605f31f.svg"></a>&nbsp;&nbsp;
  
  </p>
-![build](https://user-images.githubusercontent.com/93989786/166101778-7d0c26ef-5c3a-4496-a716-49e10d8a2e2e.svg)
-![GitHub last commit](https://user-images.githubusercontent.com/93989786/166101790-9d40b12f-1726-4908-b36a-e0255589472c.svg)
 -----
 Credits: [ImamSec](https://github.com/namerose)
 Last Edited on: 04/30/2022
