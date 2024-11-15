@@ -1,6 +1,6 @@
 ![Send Love Pls](http://i1.kym-cdn.com/photos/images/original/000/896/763/c19.gif)
 
-<h2 align="left">Hi there, I'm <a href="https://www.instagram.com/imam_walks/" target="_blank" rel="noopener noreferrer">Syechrul Imam</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="left">Hi there, I'm <a href="https://www.instagram.com/imamsec.link/" target="_blank" rel="noopener noreferrer">Syechrul Imam</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 <a href="https://github.com/namerose"><img align='right' src='https://i.pinimg.com/originals/eb/67/a6/eb67a64969519927a66e1a742cb5d626.gif' width='150"'></a></h2>
 - 🎓 I'm a IT Student  
@@ -20,7 +20,7 @@
  <p align='left'>
    <a href="https://www.linkedin.com/in/imamsec/" target="_blank"><img height="25" src="https://user-images.githubusercontent.com/93989786/166101833-993ca8e6-94a8-431a-904d-338ba1d9e4a2.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/imam_walks" target="_blank"><img height="25" src="https://user-images.githubusercontent.com/93989786/166101856-4a27c629-5af2-4210-be52-4c31d4a6e802.svg"></a>&nbsp;&nbsp;
- <a href="https://instagram.com/imam_walks" target="_blank"><img height="25" src="https://user-images.githubusercontent.com/93989786/166101861-6e194f77-a150-461d-9e32-82e76605f31f.svg"></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/imamsec.link" target="_blank"><img height="25" src="https://user-images.githubusercontent.com/93989786/166101861-6e194f77-a150-461d-9e32-82e76605f31f.svg"></a>&nbsp;&nbsp;
  
  </p>
 ![build](https://user-images.githubusercontent.com/93989786/166101778-7d0c26ef-5c3a-4496-a716-49e10d8a2e2e.svg)
