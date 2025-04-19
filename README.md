@@ -1,6 +1,6 @@
 ![Send Love Pls](http://i1.kym-cdn.com/photos/images/original/000/896/763/c19.gif)
 
-<h2 align="left">Hi there, I'm <a href="https://www.instagram.com/imamsec.link/" target="_blank" rel="noopener noreferrer">Syechrul Imam</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="left">Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 <a href="https://github.com/namerose"><img align='right' src='https://i.pinimg.com/originals/eb/67/a6/eb67a64969519927a66e1a742cb5d626.gif' width='150"'></a></h2>
 - 🎓 I'm a IT Student  
